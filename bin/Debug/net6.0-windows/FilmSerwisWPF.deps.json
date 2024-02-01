@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FilmSerwisWPF/1.0.0": {
+        "dependencies": {
+          "Filmserwis": "1.0.0"
+        },
+        "runtime": {
+          "FilmSerwisWPF.dll": {}
+        }
+      },
+      "Filmserwis/1.0.0": {
+        "runtime": {
+          "Filmserwis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilmSerwisWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Filmserwis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
